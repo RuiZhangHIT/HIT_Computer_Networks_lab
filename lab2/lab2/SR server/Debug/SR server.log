@@ -1,0 +1,3 @@
+﻿  SR server.cpp
+C:\Users\ZR\Desktop\lab2\SR server\SR server.cpp(155,18): warning C4309: “=”: 截断常量值
+  SR server.vcxproj -> C:\Users\ZR\Desktop\lab2\Debug\SR server.exe

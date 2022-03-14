@@ -1,0 +1,7 @@
+﻿  stop-wait server.cpp
+C:\Users\ZR\Desktop\lab2\stop-wait server\stop-wait server.cpp(131,31): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\ZR\Desktop\lab2\stop-wait server\stop-wait server.cpp(132,28): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\ZR\Desktop\lab2\stop-wait server\stop-wait server.cpp(156,18): warning C4309: “=”: 截断常量值
+C:\Users\ZR\Desktop\lab2\stop-wait server\stop-wait server.cpp(247,18): warning C4309: “=”: 截断常量值
+C:\Users\ZR\Desktop\lab2\stop-wait server\stop-wait server.cpp(130,6): warning C4101: “ret”: 未引用的局部变量
+  stop-wait server.vcxproj -> C:\Users\ZR\Desktop\lab2\Debug\stop-wait server.exe

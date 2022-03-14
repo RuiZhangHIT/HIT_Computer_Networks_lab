@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1635905628 source:d:\programming\codeblocks\tests\computer network\lab1\main.cpp
+	<stdio.h>
+	<Windows.h>
+	<process.h>
+	<string.h>
+
+1635905628 source:c:\users\zr\desktop\计算机网络\1190201421-张瑞-实验一\main.cpp
+	<stdio.h>
+	<Windows.h>
+	<process.h>
+	<string.h>
+

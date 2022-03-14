@@ -1,0 +1,7 @@
+﻿  GBN server.cpp
+C:\Users\ZR\Desktop\lab2\GBN server\GBN server.cpp(132,31): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\ZR\Desktop\lab2\GBN server\GBN server.cpp(133,28): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\ZR\Desktop\lab2\GBN server\GBN server.cpp(157,18): warning C4309: “=”: 截断常量值
+C:\Users\ZR\Desktop\lab2\GBN server\GBN server.cpp(249,18): warning C4309: “=”: 截断常量值
+C:\Users\ZR\Desktop\lab2\GBN server\GBN server.cpp(131,6): warning C4101: “ret”: 未引用的局部变量
+  GBN server.vcxproj -> C:\Users\ZR\Desktop\lab2\Debug\GBN server.exe

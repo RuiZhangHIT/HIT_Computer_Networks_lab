@@ -1,0 +1,6 @@
+﻿  GBN client.cpp
+C:\Users\ZR\Desktop\lab2\GBN client\GBN client.cpp(131,31): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\ZR\Desktop\lab2\GBN client\GBN client.cpp(132,28): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\ZR\Desktop\lab2\GBN client\GBN client.cpp(174,19): warning C4309: “=”: 截断常量值
+C:\Users\ZR\Desktop\lab2\GBN client\GBN client.cpp(256,19): warning C4309: “=”: 截断常量值
+  GBN client.vcxproj -> C:\Users\ZR\Desktop\lab2\Debug\GBN client.exe
